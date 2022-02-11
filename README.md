@@ -8,6 +8,8 @@ BilTweetNews-2017Linkage_995.csv: This CSV (comma separated) file includes the e
 
 BilTweetNews-2017Events.xml: This XML file includes the details of each event.
 
+html: This folder includes the html version of each event (news article).
+
 In addition, for the dataset used in "Early Prediction of Public Reactions to News Events Using Microblogs", the following file includes the sentiment labels.
 
 BilTweetNews-2017Sentiment_995.csv: This CSV (comma separated) file includes the sentiment labels for each tweet. 
