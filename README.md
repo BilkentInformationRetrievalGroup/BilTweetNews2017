@@ -1,9 +1,10 @@
 # BilTweetNews2017
 Bilkent Tweet - News Linkage &amp; Sentiment Test Collection
 
-For the dataset used in "Event-related microblog retrieval in Turkish", please use the following files:\\
-\\
-BilTweetNews-2017Tweets_995.tsv:  This file includes tweets. \\
+For the dataset used in "Event-related microblog retrieval in Turkish", please use the following files:
+
+BilTweetNews-2017Tweets_995.tsv:  This file includes tweets. 
+
 BilTweetNews-2017Linkage_995.tsv: This file includes the event labels for each tweet. We provide the probability distribution with respect to event classes.
 
 ****
